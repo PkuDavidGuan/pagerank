@@ -1,0 +1,23 @@
+{
+    "remotePath": "/home/gys/pageRank/code",
+    "host": "162.105.146.26",
+    "username": "gys",
+    "password": "gys19970106",
+    "port": 22,
+    "protocol": "sftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "uploadOnSave": false,
+        "extensionsToInclude": [],
+        "path": ""
+    }
+}
